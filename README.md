@@ -2,6 +2,10 @@
 # Lakehouse mit DuckDB
 Raka Pradnya Putra Adita 8778662
 
+Dieses Projekt ist auch auf Github unter dem folgenden Link zu finden: 
+https://github.com/rakaputra12/Lakehouse_with_DuckDB
+
+
 ## Projektübersicht
 
 Diese Arbeit erklärt moderne Datenarchitekturen mit einem Schwerpunkt auf dem Lakehouse-Konzept. Es zielt darauf ab, die Integration von Data Lakes und Data Warehouses zu erklären und eine Übersicht über innovative Technologien wie DuckDB und die Medaillon-Architektur zu bieten. Darüber hinaus wird ein praktishes Beispiel in dieser Arbeit gemacht.
