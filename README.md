@@ -17,7 +17,7 @@ Diese Arbeit erklärt moderne Datenarchitekturen mit einem Schwerpunkt auf dem L
 
 ## Datenquellen
 Die verwendeten Daten stammen aus:  
-[\[Link zur Datenquelle\]](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset?resource=download&select=shopping_behavior_updated.csv) oder liegen im Ordner `/data`.
+[\[Link zur Datenquelle\]](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset?resource=download&select=shopping_behavior_updated.csv) oder liegen im Ordner `/src`.
 
 
 
